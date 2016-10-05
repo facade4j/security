@@ -1,5 +1,3 @@
-# security
-
 # About facade4j - security
 The Simple Security Facade for Java security. 
 
